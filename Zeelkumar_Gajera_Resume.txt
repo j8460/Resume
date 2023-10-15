@@ -1,0 +1,63 @@
+Zeelkumar Gajera
+
+AHMEDABAD, India 382345
++91 8460537917
+gajerajeel199930@gmail.com
+
+Summary
+
+Innovative Software Developer with 2+ years of hands-on experience designing and testing applications. Well-versed in Agile methodologies and coding languages. Dedicated to developing creative solutions to meet business goals and requirements.
+
+Skills
+
+● Highly proficient in Java, JSP, Servlet, J2EE, Hibernate, Restful services, Log4j, Javascript, Jquery, Ajax, Ext JS, Angular, MySQL, Hadoop, Apache Solr, Micro-service in Quarkus, Kafka, Keycloak, OpenLdap, Git.
+● Familiar with Docker, Jenkins, Jasper soft, OpenVpn, AWS code-commit, agile scrum, Jira, .net core, Android(java).
+● Ability to learn quickly, Possess good team spirit.
+● Willing to take greater Responsibilities. ● Ability to research new platforms and architecture to support current project needs
+and keeping an eye on new technology developments
+● Positive attitude towards work and a good team member.
+
+Experience
+
+September 2021 - Current
+Sapphire Software Solution  - AHMEDABAD, IN
+Software Developer
+Project :-Electronic Health Record
+System for hospitals, clinics, and practices that is
+flexible enough to change as healthcare evolves yet doesn't cost a fortune
+to implement and operate. Delivered in the cloud, the iCare Enterprise
+Cloud EHR is a fully integrated system which includes a full range of
+administrative, clinical and revenue cycle management capabilities.
+My responsibilities were new enhancement and support.
+JEE 7.0, ExtJS, jQuery, OSGI 5.0, SOLR, Hibernate, HBase/Hadoop, MySQL, AWS, EC2, Quarkus, GRPC, EMR, and KAFKA are among the technologies used.
+Project :-School Management System
+Vidyalaya software is a customized school management software that offers end-to-end solutions for every phase of school management like admissions, academic management, staff management, attendance. It is a one-stop solution platform that integrates various features like biometric, SMS, online portal, e-exam, mobile app, etc. Let our high-end product empower your educational institute in delivering new ways of education by taking care of administrative tasks!.
+My responsibilities were to migrate module from asp.net to .net core and Angular 8.
+
+Education and Training
+
+May 2022
+LJ Institutes of Computer Applications AHMEDABAD
+MCA*
+Project :-Smart Library
+System that can produce automated online system for managing the
+activities of the library
+Team size: 3
+Language: Laravel framework
+Project:- Money control
+Money controller is a simple android project where any person can handle
+there budgets...
+Team size: 3
+Language: Android (java)
+
+May 2020
+Bholabhai Patel College of Computer Studies Gandhinager
+BCA
+Graduated with 7.33
+Worked on project Onlinecake.com (Online cake and food ordering system)
+This project is a web based that stimulates the foodies(customers) to
+order cakes and foods through internet by locating the shop(bakery)
+nearest one or others.
+Team size: 4
+Language: PHP, MySQL, HTML , CSS, Javascript and Bootstrap
+Framework
